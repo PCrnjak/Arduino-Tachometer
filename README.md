@@ -4,8 +4,8 @@
 
 ## Intro 
 This is open source tachometer project that is focused on making small ,compact and precise tachometer.
-In this github repositori you will find everything needed to build this , from code to the STL files and building instructions.
-There are 2 design versions that use same code but cases are slightly different , but that will be discussed alsewere in this repositori.
+In this github repository you will find everything needed to build this , from code to the STL files and building instructions.
+There are 2 design versions that use same code but cases are slightly different , but that will be discussed alsewere in this repository.
 
 ## Table of contents<a name="table"></a>
  1. [Intro](#intro)
