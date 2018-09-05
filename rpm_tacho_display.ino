@@ -9,10 +9,10 @@ Adafruit_SSD1306 display(OLED_RESET);
 
 
 unsigned int rpm;
-unsigned int prevmillis=0;
+unsigned long prevmillis=0;
 volatile byte state;
 unsigned int duration;
-unsigned int prevTime = 0; 
+unsigned long prevTime = 0; 
 #define updateTime 350
 
 void setup() {
