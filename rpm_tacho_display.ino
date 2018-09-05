@@ -28,7 +28,7 @@ if(state==true){
   detachInterrupt(1);
   duration = ( millis() - prevmillis );
   prevmillis = millis();
-  rpm = (60000/duration)/1;
+  
  
   if(millis() - prevTime >= updateTime) {
      prevTime = millis(); 
