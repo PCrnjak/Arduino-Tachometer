@@ -8,11 +8,10 @@
 Adafruit_SSD1306 display(OLED_RESET);
 
 
-word rpm;
+unsigned int rpm;
 unsigned int prevmillis=0;
 volatile byte state;
-word duration;
-unsigned int currenTime;
+unsigned int duration;
 unsigned int prevTime = 0; 
 #define updateTime 350
 
@@ -25,30 +24,26 @@ attachInterrupt(1,interrupt,RISING);
 
 void loop() {
  
-unsigned int currenTime = millis();
 if(state==true){
   detachInterrupt(1);
   duration = ( millis() - prevmillis );
   prevmillis = millis();
   rpm = (60000/duration)/1;
  
-  if(currenTime - prevTime >= updateTime) {
-     prevTime = currenTime; 
+  if(millis() - prevTime >= updateTime) {
+     prevTime = millis(); 
       ///Serial.print("\t RPM:  ");
      // Serial.println(rpm);
-      
-  display.clearDisplay();
-  display.setTextSize(2);
-  display.setTextColor(WHITE);
-  display.setCursor(3,9);
-  display.println("RPM:");
-  display.setCursor(60,9);
-  display.println(rpm);  
-  display.display();
-      
-    
+     rpm = (60000/duration)/1;   
+     display.clearDisplay();
+     display.setTextSize(2);
+     display.setTextColor(WHITE);
+     display.setCursor(3,9);
+     display.println("RPM:");
+     display.setCursor(60,9);
+     display.println(rpm);  
+     display.display();   
   }
-  
   state=false;
   attachInterrupt(1,interrupt,RISING); 
   
