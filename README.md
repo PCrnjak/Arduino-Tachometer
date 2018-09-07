@@ -54,7 +54,7 @@ If your sensor on tachometer triggers on both reflective tape and rest of the ob
 ![tacho off](https://user-images.githubusercontent.com/30388414/45235804-52689380-b2da-11e8-91d4-8290ce59e689.jpg)
 
 Other problems i noticed:
--When mesuring speed i noticed that changes in light can faulty trigger sensor and cause "spike" of wrong speed.
- -If sensor is too far from mesured object it will start to shoot random speed values.
-  -Quick change in speed can cause "spike" in displayed speed
+- When mesuring speed i noticed that changes in light can faulty trigger sensor and cause "spike" of wrong speed.
+  - If sensor is too far from mesured object it will start to shoot random speed values.
+    - Quick change in speed can cause "spike" in displayed speed
 
