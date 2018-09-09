@@ -42,7 +42,8 @@ There are 2 design versions that use same code but cases are slightly different 
 | Li ion battery charger   | [Link](https://www.ebay.com/itm/5V-Mini-USB-Charger-Module-for-3-7V-Lithium-Li-ion-18650-Battery-4-2V-Protection/232746845709?hash=item3630cb060d:g:MTkAAOSwai5a4Sbu)     |       |
 | 18650 Li-Ion battery   |     | Got mine from laptop battery      |
 | Slide switch   |[Link](https://www.ebay.com/itm/10Pcs-On-Off-SPDT-Vertical-3-Pin-1P2T-Mini-Micro-Vertical-Slide-Switch/391684755384?hash=item5b323b0fb8:g:sSQAAOSwt5hYfYif)     |       |
-|15mm M3 screws    |     |       |
+|15mm M3 screws    |     | 2 pieces     |
+|5mm M2 screws    |     |  4 pieces     |
 |M3 nuts    |     |       |
 | Boost converter V1   |[Link](https://www.ebay.com/itm/1-2-5-10PCS-DC-DC-Boost-Converter-Step-Up-Module-1-5V-to-5V-500mA-for-Arduino/311945927376?hash=item48a16d1ad0:m:mfLwIvhD6DkRf64ivaRKXRQ)    | This one is used in V1 and might not work      |
 | Boost converter V2   |[Link](https://www.ebay.com/itm/DC-3-24V-to-5V-28V-9V-12V-24V-2A-Adjustable-Boost-Step-Up-Converter-Power-Module/112619032791?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649)     |This is used in V2 and is proven to work       |
