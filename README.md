@@ -38,18 +38,18 @@ There are 2 design versions that use same code but cases are slightly different 
  | Name   | Link | Comment |
 | ------------- | ------------- | ------------- |
 | Arduino pro mini  | [link](https://www.ebay.com/itm/Pro-Mini-Enhancement-ATMEGA328P-5V-16MHz-Compatible-to-Arduino-PRO-mini/191679508570?hash=item2ca0fd305a:g:AxIAAOSwT6pV5YIu)  |    |
-| IR sensor  |   |  |
-| Li ion battery charger   |     |       |
-| 18650 Li-Ion battery   |     |       |
-| Slide switch   |     |       |
+| IR sensor  | [Link](https://www.ebay.com/itm/2Pcs-Reflective-3pin-IR-Infrared-Obstacle-Avoidance-Sensor-Module-for-Arduino/192067056868?hash=item2cb816b4e4:g:Fr8AAOSwUKxYaNZU)  |  |
+| Li ion battery charger   | [Link](https://www.ebay.com/itm/5V-Mini-USB-Charger-Module-for-3-7V-Lithium-Li-ion-18650-Battery-4-2V-Protection/232746845709?hash=item3630cb060d:g:MTkAAOSwai5a4Sbu)     |       |
+| 18650 Li-Ion battery   |     | Got mine from laptop battery      |
+| Slide switch   |[Link](https://www.ebay.com/itm/10Pcs-On-Off-SPDT-Vertical-3-Pin-1P2T-Mini-Micro-Vertical-Slide-Switch/391684755384?hash=item5b323b0fb8:g:sSQAAOSwt5hYfYif)     |       |
 |15mm M3 screws    |     |       |
 |M3 nuts    |     |       |
-| Boost converter   |     |       |
-| Boost converter   |     |       |
-| Female header pins   |     |       |
-| SMD push button   |     |       |
-| Perf board   |     |       |
-|    |     |       |
+| Boost converter V1   |[Link](https://www.ebay.com/itm/1-2-5-10PCS-DC-DC-Boost-Converter-Step-Up-Module-1-5V-to-5V-500mA-for-Arduino/311945927376?hash=item48a16d1ad0:m:mfLwIvhD6DkRf64ivaRKXRQ)    | This one is used in V1 and might not work      |
+| Boost converter V2   |[Link](https://www.ebay.com/itm/DC-3-24V-to-5V-28V-9V-12V-24V-2A-Adjustable-Boost-Step-Up-Converter-Power-Module/112619032791?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649)     |This is used in V2 and is proven to work       |
+| Female header pins   | [Link](https://www.ebay.com/itm/10PCS-40Pin-2-54mm-Single-Row-Straight-Female-Pin-Header-Strip-PBC-Ardunio/180974322541?epid=1263175571&hash=item2a22e9036d:g:VDQAAOSwbsBXkHSd)    |       |
+| SMD push button   | [Link](https://www.ebay.com/itm/100pcs-3X6X2-5mm-Tactile-Push-Button-Switch-Tact-Switch-Micro-Switch-2Pin-SMD-S2/261995936109?epid=1046591979&hash=item3d002cb96d:g:RSsAAOSwyQtVxKPd)    | OPTIONAL       |
+| Perf board   |[Link](https://www.ebay.com/itm/10pcs-New-PCB-Prototype-Perf-Universal-Board-Breadboard-5cm-x-7cm-PCB-Board/292371392551?hash=item4412b16827:g:lBIAAOSw-z9Zu5c3)    | OPTIONAL       |
+
 
  
  
