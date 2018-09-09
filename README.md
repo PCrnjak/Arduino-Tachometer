@@ -35,6 +35,24 @@ There are 2 design versions that use same code but cases are slightly different 
  
  ## Bill of materials<a name="bill"></a>
  
+ | Name   | Link | Comment |
+| ------------- | ------------- | ------------- |
+| Arduino pro mini  | [link](https://www.ebay.com/itm/Pro-Mini-Enhancement-ATMEGA328P-5V-16MHz-Compatible-to-Arduino-PRO-mini/191679508570?hash=item2ca0fd305a:g:AxIAAOSwT6pV5YIu)  |    |
+| IR sensor  |   |  |
+| Li ion battery charger   |     |       |
+| 18650 Li-Ion battery   |     |       |
+| Slide switch   |     |       |
+|15mm M3 screws    |     |       |
+|M3 nuts    |     |       |
+| Boost converter   |     |       |
+| Boost converter   |     |       |
+| Female header pins   |     |       |
+| SMD push button   |     |       |
+| Perf board   |     |       |
+|    |     |       |
+
+ 
+ 
  
  ## Building instructions<a name="inst"></a>
  
