@@ -2,7 +2,7 @@
 ## THIS IS STILL WORK IN PROGRESS!!
 This is open source tachometer project that is focused on making small ,compact and precise tachometer.
 In this github repository you will find everything needed to build this , from code to the STL files and building instructions.
-There are 2 design versions that use same code but cases are slightly different , but that will be discussed elsewhere in this repository.
+There are 2 design versions that use same code but cases are slightly different , but that will be discussed elsewhere in this repository.YouTube [link](https://www.youtube.com/watch?v=HuFqqmQe_AE) of device in action.
 ![tacho gif](https://user-images.githubusercontent.com/30388414/45233427-0108d600-b2d3-11e8-978f-0932cf2c5d5f.gif)
 
 
@@ -59,6 +59,7 @@ You will also need [FTDI USB to TTL Serial Adapter Module](https://www.ebay.com/
  
  ## Building instructions<a name="inst"></a>
  
+ Building instructions can be found on instructables page of this [project](https://www.instructables.com/id/Arduino-Tachometer/).
  
 ## Code<a name="code"></a>
 [Speed test](https://github.com/PCrnjak/Arduino-Tachometer/blob/master/speed_test.ino) is code I used to comfirm that my tachometer was mesuring right speed.More about how it works and how to implement the code can be found in the file.[RPM tacho display](https://github.com/PCrnjak/Arduino-Tachometer/blob/master/rpm_tacho_display.ino) is code used on tachometer to mesure speed.
