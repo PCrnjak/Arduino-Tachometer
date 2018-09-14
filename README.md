@@ -2,7 +2,7 @@
 ## THIS IS STILL WORK IN PROGRESS!!
 This is open source tachometer project that is focused on making small ,compact and precise tachometer.
 In this github repository you will find everything needed to build this , from code to the STL files and building instructions.
-There are 2 design versions that use same code but cases are slightly different , but that will be discussed elseweree in this repository.
+There are 2 design versions that use same code but cases are slightly different , but that will be discussed elsewhere in this repository.
 ![tacho gif](https://user-images.githubusercontent.com/30388414/45233427-0108d600-b2d3-11e8-978f-0932cf2c5d5f.gif)
 
 
@@ -44,7 +44,7 @@ There are 2 design versions that use same code but cases are slightly different 
 | Slide switch   |[Link](https://www.ebay.com/itm/10Pcs-On-Off-SPDT-Vertical-3-Pin-1P2T-Mini-Micro-Vertical-Slide-Switch/391684755384?hash=item5b323b0fb8:g:sSQAAOSwt5hYfYif)     |       |
 |15mm M3 screws    |     | 2 pieces     |
 |5mm M2 screws    |     |  4 pieces     |
-|M3 nuts    |     |       |
+|M3 nuts    |     | 2 pieces      |
 | Boost converter V1   |[Link](https://www.ebay.com/itm/1-2-5-10PCS-DC-DC-Boost-Converter-Step-Up-Module-1-5V-to-5V-500mA-for-Arduino/311945927376?hash=item48a16d1ad0:m:mfLwIvhD6DkRf64ivaRKXRQ)    | This one is used in V1 and might not work      |
 | Boost converter V2   |[Link](https://www.ebay.com/itm/DC-3-24V-to-5V-28V-9V-12V-24V-2A-Adjustable-Boost-Step-Up-Converter-Power-Module/112619032791?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649)     |This is used in V2 and is proven to work       |
 | Female header pins   | [Link](https://www.ebay.com/itm/10PCS-40Pin-2-54mm-Single-Row-Straight-Female-Pin-Header-Strip-PBC-Ardunio/180974322541?epid=1263175571&hash=item2a22e9036d:g:VDQAAOSwbsBXkHSd)    |       |
