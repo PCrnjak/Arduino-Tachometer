@@ -51,6 +51,8 @@ There are 2 design versions that use same code but cases are slightly different 
 | SMD push button   | [Link](https://www.ebay.com/itm/100pcs-3X6X2-5mm-Tactile-Push-Button-Switch-Tact-Switch-Micro-Switch-2Pin-SMD-S2/261995936109?epid=1046591979&hash=item3d002cb96d:g:RSsAAOSwyQtVxKPd)    | OPTIONAL       |
 | Perf board   |[Link](https://www.ebay.com/itm/10pcs-New-PCB-Prototype-Perf-Universal-Board-Breadboard-5cm-x-7cm-PCB-Board/292371392551?hash=item4412b16827:g:lBIAAOSw-z9Zu5c3)    | OPTIONAL       |
 
+You will also need [FTDI USB to TTL Serial Adapter Module](https://www.ebay.com/itm/FT232RL-3-3V-5-5V-FTDI-USB-to-TTL-Serial-Adapter-Module-for-Arduino-Mini-Port/381374421597?epid=930497168&hash=item58cbafda5d:g:jk8AAOSwrklVMjIp) to program your arduino pro mini.
+
 
  
  
