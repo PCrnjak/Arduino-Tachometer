@@ -1,5 +1,5 @@
 # Arduino-Tachometer
-## THIS IS STILL WORK IN PROGRESS!!
+
 This is open source tachometer project that is focused on making small ,compact and precise tachometer.
 In this github repository you will find everything needed to build this , from code to the STL files and building instructions.
 There are 2 design versions that use same code but cases are slightly different , but that will be discussed elsewhere in this repository.YouTube [link](https://www.youtube.com/watch?v=HuFqqmQe_AE) of device in action.
